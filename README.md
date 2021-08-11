@@ -23,7 +23,7 @@ Here is a summary :
   
 # 
 ### Is there an installation and user manual  ?
-Of course, here it is : 
+Of course, here it is : https://github.com/y-schatz/IFC-Explorer/wiki/Installation-and-user-manual
 
 # 
 ### What about the authors ?
