@@ -1,8 +1,8 @@
 # IFC Explorer
 ### What is it ? 
-IFC Explorer is a program for researchers, programmers or other advanced users working with IFCs (Industry Foundation Classes).\
+IFC Explorer is a tool for researchers, programmers or other advanced users working with IFC (Industry Foundation Classes).\
 It allows the user to explore the entire IFC tree structure in a single window and search for IFC classes to obtain concise information.\
-This is a supplement to the documentation provided by buildingSMART for the IFC schema.
+This supplements the documentation provided by buildingSMART for the IFC schema.
 
 ### Concretely, what are the functions of IFC Explorer ?
 **With the release 1.0.0 you can :** 
