@@ -28,7 +28,7 @@ Of course, here it is : https://github.com/y-schatz/IFC-Explorer/wiki/Installati
 # 
 ### What about the authors ?
 • **Dr. Bernd Domer** is professor at Haute École du Paysage et d'Architecture de Genève (HEPIA), head of inPACT research institute and MIC research group (Innovative Methods for Construction).\
-• **Yohann Schatz** is scientific collaborator at Haute École du Paysage et d'Architecture de Genève (HEPIA) and works for MIC.
+• **Yohann Schatz** is research collaborator at Haute École du Paysage et d'Architecture de Genève (HEPIA) and works for MIC.
 
 inPACT and MIC are based in Geneva, Switzerland :switzerland:
 
